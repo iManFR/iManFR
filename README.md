@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iManFR
 - 👀 I’m interested in product development (startup)
 - 🌱 I’m currently learning Nuxt JS
-- 💞️ I’m looking for an intership & alternance
+- 💞️ Currently working at @NeocityMobile
 - 📫 How to reach me : manolo.p@hotmail.fr
 
 <!---
