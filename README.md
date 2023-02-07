@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iManFR
-- 👀 I’m interested in product development (startup)
+- 👀 I’m interested in product development (startup) & ecommerce
 - 🌱 I’m currently learning Nuxt JS
-- 💞️ Currently working at @NeocityMobile
+- 📱 Currently working at Neocity
 - 📫 How to reach me : manolo.p@hotmail.fr
 
 <!---
